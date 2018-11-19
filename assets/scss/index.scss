@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+// variables
+@import "variable.scss";
+
+// reset
+@import "reset/reset.scss";
+
+// Common style
+@import "common.scss";
+
+// mixins
+@import "mixin.scss";
+
+// transition
+@import "transition.scss";
+
+// code style
+@import "syntax.scss";
+
+// iconfont
+@import "iconfont.scss";
