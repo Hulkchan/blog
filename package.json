@@ -27,7 +27,6 @@
     "highlight.js": "^9.13.1",
     "marked": "^0.5.1",
     "node-sass": "^4.9.4",
-    "nodemon": "^1.11.0",
     "prettier": "1.14.3",
     "qs": "^6.5.2",
     "sass-loader": "^7.1.0",

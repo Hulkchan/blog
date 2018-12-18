@@ -3,8 +3,8 @@
     <div class="header-container clearfix">
       <div class="logo fl">
         <nuxt-link to="/">
-          <img 
-            src="http://osnsyoxhl.bkt.clouddn.com/logo.png" 
+          <img
+            src="http://cdn.chenqihulk.cn/logo.png"
             alt="HULK BLOG">
         </nuxt-link>
       </div>
@@ -88,7 +88,7 @@ header {
           width: 100%;
         }
       }
-      .nuxt-link-exact-active{
+      .nuxt-link-exact-active {
         color: #41b883;
       }
     }
